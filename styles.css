@@ -1,0 +1,48 @@
+.index {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#clock {
+  font-family: fantasy;
+  font-size: 30px;
+  color: red;
+  text-align: center;
+}
+.email {
+  color: blue;
+  font-family: fantasy;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mando {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 30px 20px 20px;
+}
+
+.pics {
+  float: left;
+}
+
+.me {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+ul {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+.sports:hover {
+  transform: scale(2.5);
+}
